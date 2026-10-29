@@ -1,0 +1,10 @@
+{
+  "id": "recoverops",
+  "title": "RECOVEROPS",
+  "hostname": "recoverops.brutehack.com",
+  "hostnames": [
+    "recoverops.brutehack.com"
+  ],
+  "status": "portfolio demonstration",
+  "health_identity": "recoverops-ready"
+}
